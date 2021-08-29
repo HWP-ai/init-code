@@ -1,4 +1,4 @@
-/* https://gitlab.freedesktop.org/xorg/xserver/-/tree/9cd746bd0d5c23f0929342cb3cbe17f0c8407d37/mi */
+/* https://gitlab.freedesktop.org/xorg/xserver/-/blob/d568221710959cf7d783e6ff0fb80fb43a231124/mi/miinitext.c#L507 */
 
 /* List of built-in (statically linked) extensions */
 static ExtensionModule staticExtensions[] = {
